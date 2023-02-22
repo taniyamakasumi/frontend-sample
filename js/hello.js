@@ -3,3 +3,4 @@ let greet = "hello"
 
 let greetDom = document.querySelector(".greet")
 greetDom.textContent = greet
+
